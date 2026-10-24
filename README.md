@@ -15,6 +15,18 @@
 * **Internet Archive:** [https://archive.org/details/NNKZipper6](https://archive.org/details/NNKZipper6)
 * **Archive identifier:** `NNKZipper6`
 
+## Download Now
+*  **Setup Download:** [Download NNKZipper6.exe](https://github.com/ViDiKHAN/NNKZipper6/raw/refs/heads/main/NNKZipper6.exe)
+*  **Download as zip:** [Download NNKZipper6.zip](https://github.com/ViDiKHAN/NNKZipper6/raw/refs/heads/main/NNKZipper6.zip)
+*  **Download as rar:** [Download NNKZipper6.rar](https://github.com/ViDiKHAN/NNKZipper6/raw/refs/heads/main/NNKZipper6.rar)
+*  **Download as tar:** [Download NNKZipper6.tar](https://github.com/ViDiKHAN/NNKZipper6/raw/refs/heads/main/NNKZipper6.tar)
+*  **Download as 7z:** [Download NNKZipper6.7z](https://github.com/ViDiKHAN/NNKZipper6/raw/refs/heads/main/NNKZipper6.7z)
+*  **Download as bz2:** [Download NNKZipper6.exe.bz2](https://github.com/ViDiKHAN/NNKZipper6/raw/refs/heads/main/NNKZipper6.exe.bz2)
+*  **Download as gz:** [Download NNKZipper6.exe.gz](https://github.com/ViDiKHAN/NNKZipper6/raw/refs/heads/main/NNKZipper6.exe.gz)
+*  **Download as xz:** [Download NNKZipper6.exe.xz](https://github.com/ViDiKHAN/NNKZipper6/raw/refs/heads/main/NNKZipper6.exe.xz)
+*  **Download as nnk:** [Download NNKZipper6.nnk](https://github.com/ViDiKHAN/NNKZipper6/raw/refs/heads/main/NNKZipper6.nnk)
+*  **Download NNKZipper Basic for .nnk support:** [Download NNKZipper 1.0](https://github.com/ViDiKHAN/NNKZipper/releases/download/1.0/NNKZipper-Basic-1.0.exe)
+
 ---
 
 ## 📁 Contents
